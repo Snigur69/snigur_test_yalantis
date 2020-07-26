@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/snigur_test_yalantis/precache-manifest.efd0e81806212ad2ba2c2c7c531def0a.js"
+  "/snigur_test_yalantis/precache-manifest.df7ff0fbed089670f47e8acdc533badb.js"
 );
 
 self.addEventListener('message', (event) => {
