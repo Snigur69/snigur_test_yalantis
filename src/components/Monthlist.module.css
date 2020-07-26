@@ -1,0 +1,8 @@
+.userList {
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: left;
+}
+.userList p {
+    text-align: center;
+}
