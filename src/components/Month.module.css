@@ -4,4 +4,9 @@
     display: inline-block;
     border: 2px solid black;
     position: relative;
+    cursor: pointer;
+    font-weight: bold;
+}
+.single_month span {
+    font-weight: normal;
 }

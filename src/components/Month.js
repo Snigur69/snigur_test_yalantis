@@ -34,8 +34,8 @@ const Month = (props) => {
             className={styles.single_month}
             style={{ backgroundColor: currentColor }}
         >
-            <b>{months[props.month]}</b> <br />
-            {props.users.length} users
+            {months[props.month]} <br />
+            <span>{props.users.length} users</span>
         </div>
     );
 };
