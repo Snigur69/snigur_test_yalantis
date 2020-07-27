@@ -44,10 +44,9 @@ class MonthsList extends React.Component {
         this.setState({ usersByMonth: months });
     }
     mouseEnter(e) {
-        console.log(e.target.id);
-        if (e.target.id) {
-            this.setState({ userList: this.state.usersByMonth[e.target.id] });
-        }
+        this.setState({
+            userList: this.state.usersByMonth[e.currentTarget.id],
+        });
     }
 
     mouseLeave() {

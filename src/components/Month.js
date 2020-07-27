@@ -31,11 +31,11 @@ const Month = (props) => {
             id={props.month}
             onMouseEnter={props.mouseEnter}
             onMouseLeave={props.mouseLeave}
-            className={styles.single_month}
+            className={styles.single_month + " single_month"}
             style={{ backgroundColor: currentColor }}
         >
-            {months[props.month]} <br />
-            <span>{props.users.length} users</span>
+            <b>{months[props.month]}</b> <br />
+            {props.users.length} users
         </div>
     );
 };
