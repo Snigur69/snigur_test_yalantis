@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f08062dfc29e9b5431d55eec7fea94f9",
+    "revision": "a0c5b2318be3d99bc052adb11360c84e",
     "url": "/snigur_test_yalantis/index.html"
   },
   {
-    "revision": "0ca0541f6d48f81ca451",
-    "url": "/snigur_test_yalantis/static/css/main.01f830e4.chunk.css"
+    "revision": "6868b8a41c331f9e52c5",
+    "url": "/snigur_test_yalantis/static/css/main.32705223.chunk.css"
   },
   {
     "revision": "c73b4bb287697953daf6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snigur_test_yalantis/static/js/2.9e3bc523.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ca0541f6d48f81ca451",
-    "url": "/snigur_test_yalantis/static/js/main.9af6f02d.chunk.js"
+    "revision": "6868b8a41c331f9e52c5",
+    "url": "/snigur_test_yalantis/static/js/main.b560a200.chunk.js"
   },
   {
     "revision": "4686a8309525883c0127",
